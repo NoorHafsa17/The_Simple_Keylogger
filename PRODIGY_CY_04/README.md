@@ -1,4 +1,4 @@
-# PRODIGY_CY_04 – Simple Keylogger
+# The Keylogger
 
 ## Overview
 This project is a basic and ethical keylogger created for educational purposes as part of the Prodigy InfoTech Cyber Security Internship. It records keystrokes on the user's own system and stores them in a text file.
